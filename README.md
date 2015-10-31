@@ -28,6 +28,8 @@ See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://github.com/openMetaAnalysis/QI-project-design/blob/master/forest-plots/Outcome-Primary.png "Principle results")
 
+* [Metaregression](../../tree/master/metaregression) ([source data](../../tree/master/data))
+
 The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
 
 ![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/QI-project-design/master/metaregression/outcome-primary.png "Principle results - metaregression")
