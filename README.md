@@ -14,7 +14,7 @@ The QIKAT has been superceeded by the QIKAT-R (PMID [25119555](http://pubmed.gov
 
 We encourage teachers of quality improvement to use the QIKAT-R, fully report results (means and standard deviations of each scale for all study groups and reliability scores if tested), and add results to this repository. 
 
-We hope that this repository will help teachers and researchers benchmark their teaching and share best practices.
+We hope that this repository will help teachers and researchers benchmark their teaching and share best practices. We encourage researchers reporting their results to include in their publication an update of the forest plot below including the researcher's new results. Contact https://github.com/badgettrg for help.
 
  
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/). 
