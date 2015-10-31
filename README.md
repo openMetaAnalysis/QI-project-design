@@ -3,7 +3,7 @@ QI projects: evaluating learning of project design
 A data-only living systematic review
 
 **Clinical summary:** This meta-analysis finds that:
- 1. Baseline ability is variable
+ 1. Baseline ability of trainees is variable
  1. Teaching of quality improvement improves scores on the QIKAT by a mean of 2.26 with [substantial heterogeneity](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm) in results.
  1. Heterogeneity of results is inversely correlated with the baseline QIKAT scores. Benefit was shown in all studies except one (Glissmeyer) whose baseline scores were very high.
  1. The only study that showed no significant improvement (Glissmeyer) was the only study that explicitly stated raters of the QIKAT responses were blinded to whether responses were before or after teaching.
