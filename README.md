@@ -3,18 +3,18 @@ QI projects: evaluating the learning of project design
 A data-only living systematic review
 
 **Clinical summary:** This meta-analysis finds that:
- 1. Baseline ability of trainees is variable and do not correlate with level of clinical training.
+ 1. Baseline abilities of trainees is variable and do not correlate with level of clinical training.
  1. Teaching of quality improvement improves scores on the QIKAT by a mean of 2.25 with [substantial heterogeneity](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm) in results.
  1. Heterogeneity of results is inversely correlated with the baseline QIKAT scores. Benefit was shown in all studies except one (Glissmeyer) whose baseline scores were very high.
  1. The study reporting the most benefit (Varkey, 2008) was of three weeks duration, included a practicum, and had the most clinically experienced trainees.
  1. Only two studies (Glissmeyer and Yanamadala) explicitly stated raters of the QIKAT responses were blinded to whether responses were before or after teaching.
  1. Studies reported inconsistent reliability of the QIKAT.
  
-The QIKAT has been superceeded by the QIKAT-R (PMID [25119555](http://pubmed.gov/25119555)) which has more explicit criteria for judging narrative responses.
+The QIKAT has been superceeded by the **QIKAT-R** (PMID [25119555](http://pubmed.gov/25119555)) which has more explicit criteria for judging narrative responses.
 
 We encourage teachers of quality improvement to use the QIKAT-R, fully report results (means and standard deviations of each scale for all study groups and reliability scores if tested), and add results to this repository. 
 
-We hope that this repository will help teachers and researchers benchmark their teaching and share best practices. We encourage researchers reporting their results to include in their publication an update of the forest plot below including the researcher's new results. Contact https://github.com/badgettrg for help.
+We hope that this repository will help teachers and researchers benchmark their teaching as well as to identify and share best practices. We encourage researchers reporting their results to include in their publication an update of the forest plot below including the researcher's new results. Contact https://github.com/badgettrg for help.
 
  
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/). 
