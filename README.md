@@ -1,6 +1,5 @@
 QI projects: evaluating the learning of project design
 ============================================
-A data-only living systematic review
 
 **Clinical summary:** This meta-analysis finds that:
  1. Baseline abilities of trainees is variable and do not correlate with level of clinical training.
