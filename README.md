@@ -1,13 +1,13 @@
-QI projects: evaluating learning of project design
+QI projects: evaluating the learning of project design
 ============================================
 A data-only living systematic review
 
 **Clinical summary:** This meta-analysis finds that:
  1. Baseline ability of trainees is variable and do not correlate with level of clinical training.
- 1. Teaching of quality improvement improves scores on the QIKAT by a mean of 2.26 with [substantial heterogeneity](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm) in results.
+ 1. Teaching of quality improvement improves scores on the QIKAT by a mean of 2.25 with [substantial heterogeneity](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm) in results.
  1. Heterogeneity of results is inversely correlated with the baseline QIKAT scores. Benefit was shown in all studies except one (Glissmeyer) whose baseline scores were very high.
  1. The study reporting the most benefit (Varkey, 2008) was of three weeks duration, included a practicum, and had the most clinically experienced trainees.
- 1. The only study that showed no significant improvement (Glissmeyer) has the highest baseline scores and was also the only study that explicitly stated raters of the QIKAT responses were blinded to whether responses were before or after teaching.
+ 1. Only two studies (Glissmeyer and Yanamadala) explicitly stated raters of the QIKAT responses were blinded to whether responses were before or after teaching.
  1. Studies reported inconsistent reliability of the QIKAT.
  
 The QIKAT has been superceeded by the QIKAT-R (PMID [25119555](http://pubmed.gov/25119555)) which has more explicit criteria for judging narrative responses.
@@ -46,6 +46,7 @@ References:
 #### New studies *not* included in the most recent review above 
  1. Fok MC, Wong RY. Impact of a competency based curriculum on quality improvement among internal medicine residents. BMC Med Educ. 2014 Nov 28;14:252.  doi: 10.1186/s12909-014-0252-7.  PMID: [25429802](http://pubmed.gov/25429802); PMCID: PMC4258060.
  1. Glissmeyer EW, Ziniel SI, Moses J. Use of the Quality Improvement (QI) Knowledge Application Tool in Assessing Pediatric Resident QI Education. J Grad Med Educ. 2014 Jun;6(2):284-91. doi: 10.4300/JGME-D-13-00221.1.  PMID: [24949133](http://pubmed.gov/24949133); PMCID: PMC4054728.
+ 1. Yanamadala M, Hawley J, Sloane R, Bae J, Heflin MT, Buhr GT. Development and assessment of a web-based clinical quality improvement curriculum. J Grad Med Educ. 2014 Mar;6(1):147-50. doi: 10.4300/JGME-D-13-00140.1. PMID: [24701326](http://pubmed.gov/24701326); PMCID: PMC3963773
  1. Arbuckle MR, Weinberg M, Cabaniss DL, Kistler SC, Isaacs AJ, Sederer LI, Essock SM. Training psychiatry residents in quality improvement: an integrated, year-long curriculum. Acad Psychiatry. 2013 Jan 1;37(1):42-5. doi: 10.1176/appi.ap.11120214. PMID: [23338873](http://pubmed.gov/23338873).
  1. Vinci LM, Oyler J, Johnson JK, Arora VM. Effect of a quality improvement curriculum on resident knowledge and skills in improvement. Qual Saf Health Care. 2010 Aug;19(4):351-4. doi: 10.1136/qshc.2009.033829. PMID: [20513793](http://pubmed.gov/20513793).
  1. Varkey P, Karlapudi SP, Bennet KE. Teaching quality improvement: a collaboration project between medicine and engineering. Am J Med Qual. 2008 Jul-Aug;23(4):296-301. doi: 10.1177/1062860608317764. PMID: [18658103](http://pubmed.gov/18658103).
