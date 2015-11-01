@@ -5,7 +5,7 @@ QI projects: evaluating the learning of project design
  1. Baseline abilities of trainees are variable and do not correlate with level of clinical training.
  1. Teaching of quality improvement improves scores on the QIKAT by a mean of 2.25 with [substantial heterogeneity](http://handbook.cochrane.org/chapter_9/9_5_2_identifying_and_measuring_heterogeneity.htm) in results.
   1. Heterogeneity of results is inversely correlated with the baseline QIKAT scores. Benefit was shown in all studies except one (Glissmeyer) whose baseline scores were very high.
-  1. The study reporting the most benefit (Varkey, 2008) had the most clinically experienced trainees. The curriculum in this study included a practicum and was of typical duration (three weeks).
+  1. The study reporting the most benefit (Varkey, 2008) had the most clinically experienced trainees. The curriculum in this study included a practicum and lasted three weeks.
  1. Only two studies (Glissmeyer and Yanamadala) explicitly stated raters of the QIKAT responses were blinded to whether responses were before or after teaching.
  1. Studies reported inconsistent reliability of the raters' judgments in the QIKAT.
  
@@ -13,22 +13,21 @@ The QIKAT has been superceeded by the **QIKAT-R** (PMID [25119555](http://pubmed
 
 We encourage teachers of quality improvement to use the QIKAT-R, fully report results (means and standard deviations overall and of each subscale for all study groups and reliability scores if tested), and add results to this repository. 
 
-We hope that this repository will help teachers and researchers benchmark their teaching as well as to identify and share best practices. We encourage researchers reporting their results to include in their publication an update of the forest plot below including the researcher's new results. Contact https://github.com/badgettrg for help.
+We hope that this repository will help teachers and researchers benchmark their teaching as well as to identify and share best practices. We encourage researchers reporting their results to augment their report by including the analyses and plots below incorporating the researcher's new results. Contact https://github.com/badgettrg for help.
 
- 
 **Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/). 
 
 This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
 
 See [methods](http://openmetaanalysis.github.io/methods.html) for details.
 
-**Results:** Details of the studies included are in the:
-* [Forest plots](../../tree/master/forest-plots) ([source data](../../tree/master/data))
+**Results:** Details of the studies included:
+* ([Source data](../../tree/master/data))
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://github.com/openMetaAnalysis/QI-project-design/blob/master/forest-plots/Outcome-Primary.png "Principle results")
 
-* [Metaregression](../../tree/master/metaregression) ([source data](../../tree/master/data))
+* [Metaregression](../../tree/master/metaregression)
 
 The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
 
