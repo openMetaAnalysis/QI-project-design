@@ -15,14 +15,16 @@ We encourage teachers of quality improvement to use the QIKAT-R, fully report re
 
 We hope that this repository will help teachers and researchers benchmark their teaching as well as to identify and share best practices. We encourage researchers reporting their results to augment their report by including the analyses and plots below incorporating the researcher's new results. Contact https://github.com/badgettrg for help.
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/). 
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that updates a previously published narrative review.(1) Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+* [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
+* [Evidence search](files/searching/evidence-search.md) for this review
 
-This repository is a limited review and contains outcomes data only without PICO and Risk of Bias Tables.  This review does not include a GRADE Profile or Summary of Findings Table.
-
-See [methods](http://openmetaanalysis.github.io/methods.html) for details.
-
-**Results:** Details of the studies included:
-* ([Source data](../../tree/master/data))
+**Results:** Details of the studies included are in the:
+* [Reconciliation of  trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf) (under construction)
+* [Description of studies (PICO table)](files/study-details/table-pico.pdf) (under construction)
+* [Risk of bias assessment](files/study-details/table-bias.pdf) (under construction)
+* [Forest plots](../master/files/forest-plots) ([source data](files/data))
+* [Reconciliation of conclusions with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 
 The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
 ![Principle results](https://github.com/openMetaAnalysis/QI-project-design/blob/master/forest-plots/Outcome-Primary.png "Principle results")
@@ -37,7 +39,7 @@ References:
 ----------------------------------
 
 ### Systematic review(s)
-####Most recent review at time of last revision of this repository
+#### Most recent review at time of last revision of this repository
 1. None
 
 ### Original studies
