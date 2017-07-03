@@ -9,7 +9,7 @@ QI projects: evaluating the learning of project design
  1. Only two studies (Glissmeyer and Yanamadala) explicitly stated raters of the QIKAT responses were blinded to whether responses were before or after teaching.
  1. Studies reported inconsistent reliability of the raters' judgments in the QIKAT.
  
-The QIKAT has been superceeded by the **QIKAT-R** (PMID [25119555](http://pubmed.gov/25119555)) which has more explicit criteria for judging narrative responses.
+The QIKAT has been superceeded by the **QIKAT-R** (PMID [25119555](http://pubmed.gov/25119555), [SQUIRE](http://www.squire-statement.org/index.cfm?fuseaction=page.viewpage&pageid=509)) which has more explicit criteria for judging narrative responses.
 
 We encourage teachers of quality improvement to use the QIKAT-R, fully report results (means and standard deviations overall and of each subscale for all study groups and reliability scores if tested), and add results to this repository. 
 
