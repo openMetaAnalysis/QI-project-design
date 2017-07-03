@@ -54,13 +54,17 @@ References:
 #### Trial(s) included in the review above
 1. Not applicable
 
-####Trials excluded - selected list of important trials
+#### Trial(s) undergoing review
+1. Bonnes SL, Ratelle JT, Halvorsen AJ, Carter KJ, Hafdahl LT, Wang AT, Mandrekar JN, Oxentenko AS, Beckman TJ, Wittich CM. Flipping the Quality Improvement Classroom in Residency Education. Acad Med. 2017 Jan;92(1):101-107. doi: 10.1097/ACM.0000000000001412. PMID: [27680317](http://pubmed.gov/27680317)
+2. Doupnik SK, Ziniel SI, Glissmeyer EW, Moses JM. Validity and Reliability of a Tool to Assess Quality Improvement Knowledge and Skills in Pediatrics Residents. J Grad Med Educ. 2017 Feb;9(1):79-84. doi: 10.4300/JGME-D-15-00799.1. PMID: [28261399](http://pubmed.gov/28261399)
+
+#### Trials excluded - selected list of important trials
  1. *Data not available for pooling*: Tartaglia KM, Walker C. Effectiveness of a quality improvement curriculum for medical students. Med Educ Online. 2015 May 8;20:27133. doi: 10.3402/meo.v20.27133. eCollection 2015. PMID: [25960052](http://pubmed.gov/25960052); PMCID: PMC4426288.
  1. *Data not available for pooling*:Rinke ML, Mock CK, Persing NM, Sawyer M, Haut ER, Neufeld NJ, Nagy P. The Armstrong Institute Resident/Fellow Scholars: A Multispecialty Curriculum to
 Train Future Leaders in Patient Safety and Quality Improvement. Am J Med Qual. 2015 Jan 22. pii: 1062860614568523. PMID: [25614513](http://pubmed.gov/25614513).
  1. *Data not available for pooling*:Tudiver F, Click IA, Ward P, Basden JA. Evaluation of a quality improvement curriculum for family medicine residents. Fam Med. 2013 Jan;45(1):19-25. PMID: [23334963](http://pubmed.gov/23334963).
 
-####Cited by
+#### Cited by
 This repository is cited by:
 
 1. Not applicable 
