@@ -26,14 +26,11 @@ We hope that this repository will help teachers and researchers benchmark their 
 * [Forest plots](../master/files/forest-plots) ([source data](files/data))
 * [Reconciliation of conclusions with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20conclusions.pdf) (under construction)
 
-The forest plot for the primary outcome is below. Additional [forest plots](../../tree/master/forest-plots) of secondary analyses may be available. 
-![Principle results](https://github.com/openMetaAnalysis/QI-project-design/blob/master/forest-plots/Outcome-Primary.png "Principle results")
+The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
+![Principle results](files/forest-plots/Outcome-Primary.png)
 
-* [Metaregression](../../tree/master/metaregression)
-
-The metaregression for the primary outcome is below. Additional [metaregression plots](../../tree/master/metaregression) may be available.
-
-![Principle results](https://raw.githubusercontent.com/openMetaAnalysis/QI-project-design/master/metaregression/outcome-primary.png "Principle results - metaregression")
+The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
+![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 References:
 ----------------------------------
